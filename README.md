@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">❌ Making mistakes since 2003<br>📚 Currently learning Computer Engineering, Python, C++<br>🎯 Goals: Get a job and be rich<br>🎲 Fun fact: Scout from the game Team Fortress 2 can run a fast as 27.5 KM/H</p>
+<p align="left">❌ Making mistakes since 2003<br>📚 Html, Javascript, React, Nextjs Python, C++<br>🎯 Goals: Get a job and be rich<br>🎲 Fun fact: Scout from the game Team Fortress 2 can run a fast as 27.5 KM/H</p>
 
 ###
 
