@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">❌ Making mistakes since 2003<br>📚 Html, Javascript, React, Nextjs Python, C++<br>🎯 Goals: Get a job and be rich<br>🎲 Fun fact: Scout from the game Team Fortress 2 can run a fast as 27.5 KM/H</p>
+<p align="left">❌ Making mistakes since 2003<br><br>🎯 Goals: Get a job and be rich<br>🎲</p>
 
 ###
 
@@ -19,12 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
+ 
 </div>
 
 ###
