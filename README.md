@@ -10,19 +10,8 @@
 
 ###
 
-<p align="left">❌ Making mistakes since 2003<br><br>🎯 Goals: Get a job and be rich<br>🎲</p>
+<p align="left">❌ Making mistakes since 2003<br><br>🎯 Goals: Get a job and get rich 🎲</p>
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
- 
-</div>
-
-###
 
 <h3 align="left">Socials</h3>
 
